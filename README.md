@@ -1,5 +1,5 @@
 # Console_Based_Shopping_Store
-This is a simple console based shopping store implemented in dart programming language:<br>
+This is a simple console based shopping store implemented in dart programming language using best practices of OOP:<br>
 It has following modules:<br>
 1. Admin<br>
   Admin can perform following actions:<br>
